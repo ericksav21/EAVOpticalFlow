@@ -1,2 +1,2 @@
 # EAVOpticalFlow
-Optical Flow detector using fast pyramidal Horn Schunck algorithm
+Optical Flow detector using fast pyramidal Horn Schunck algorithm.
